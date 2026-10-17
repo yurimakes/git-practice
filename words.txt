@@ -1,0 +1,6 @@
+repository
+working directory
+staging area
+commit
+branch
+push
