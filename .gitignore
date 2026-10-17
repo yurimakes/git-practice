@@ -1,0 +1,12 @@
+# 실행 중 생성될 수 있는 파일
+__pycache__/
+*.pyc
+*.log
+
+# 개인 설정 및 임시 파일
+.env
+.temp/
+
+# 운영체제에서 자동 생성하는 파일
+.DS_Store
+Thumbs.db
